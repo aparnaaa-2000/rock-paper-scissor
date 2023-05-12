@@ -1,0 +1,41 @@
+/* .p2 {
+    font-family: Arial, Helvetica, sans-serif;
+  } */
+  /* @import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:ital,wght@0,100;1,600&family=Sansita+Swashed:wght@500;900&display=swap'); */
+  .h1font{
+    font-family: 'Pacifico', cursive;
+    font-size: 5rem;
+    font-style: italic;
+    font-variant: inherit;
+    color: white;
+
+  }
+  .k{
+    text-align: center;
+    /* font-family: 'Pacifico', 'cursive'; */
+    font-size: 2rem;
+  }
+  .submit1{
+    margin-left: 16rem;
+    height: 7rem;
+    width: 7rem;
+  }
+  .submit2{
+    margin-left: 5rem;
+    height: 7rem;
+    width: 7rem;
+  }
+  .submit3{
+    margin-right: 20rem;
+    height: 7rem;
+    width: 7rem;
+  }
+  /* #display{
+    color:white ;
+  } */
+  .user1{
+    margin-left: 50rem;
+  }
+  .comp1{
+    margin-right: 2rem;
+  }
